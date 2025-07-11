@@ -317,3 +317,26 @@
             50% { transform: rotate(2deg); }
         }
  
+        .footnote-ref {
+            color: #4ecdc4;
+            text-decoration: none;
+            font-size: 0.8em;
+        }
+
+        .footnotes {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+            font-size: 0.9em;
+        }
+
+        .footnote-backref {
+            margin-left: 5px;
+            text-decoration: none;
+        }
+    .footnotes {
+        text-align: center;
+        max-width: 800px; /* Adjust to match your .container width */
+        margin: 0 auto; /* Centers the block element */
+        padding: 20px 0;
+    }

@@ -334,9 +334,10 @@
             margin-left: 5px;
             text-decoration: none;
         }
-    .footnotes {
-        text-align: center;
-        max-width: 800px; /* Adjust to match your .container width */
-        margin: 0 auto; /* Centers the block element */
-        padding: 20px 0;
-    }
+        
+        .footnotes {
+            text-align: center;
+            max-width: 800px; /* Adjust to match your .container width */
+            margin: 0 auto; /* Centers the block element */
+            padding: 20px 0;
+        }        

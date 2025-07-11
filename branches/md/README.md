@@ -44,7 +44,7 @@ These forks matter — in your metaphor, this is where recursive **intention** o
 
 ## 🌳 The Pruned Tree
 
-<img src="pruned.jpg" alt="Pruned Tree" width="600" />
+<img src="../img/pruned.jpg" alt="Pruned Tree" width="600" />
 
 This tree metaphor anchors Ukubona’s recursive architecture: from roots (data priors) to canopy (public narrative). Each branch reflects a conscious fork.
 
